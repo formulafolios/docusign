@@ -21,7 +21,7 @@
     "require": {
         "php": ">=7.3.0",
         "illuminate/support": "^8.0",
-        "guzzlehttp/guzzle": "^7.0.1",
+        "guzzlehttp/guzzle": "^6.5",
         "laravel/framework": "^8.0"
     },
     "require-dev": {
